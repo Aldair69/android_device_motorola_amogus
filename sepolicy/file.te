@@ -1,1 +1,4 @@
 type vendor_sensor_data_file, file_type, data_file_type;
+
+# Power
+type vendor_sysfs_dt2w, fs_type, sysfs_type;
